@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2VI AI</string>
+    <string name="channel_voice">Voice session</string>
+    <string name="channel_alerts">Device alerts</string>
+</resources>
